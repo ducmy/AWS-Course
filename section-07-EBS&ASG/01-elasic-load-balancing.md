@@ -7,4 +7,4 @@ ELB (Elastic Load Balancer)
   - Network Load Balancer (ultra-high performaces, TCP)-Layer4 => gaming, 1 milions request
   - Class Load Balacner (not mention) very low (Layer 4 & 7)
 
-Practice Elastic Load Balacing
+>>>>**Practice Elastic Load Balacing**
