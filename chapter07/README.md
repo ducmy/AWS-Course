@@ -1,1 +1,0 @@
-### High Availability, Scalability, Elasticity
