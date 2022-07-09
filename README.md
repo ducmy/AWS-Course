@@ -1,1 +1,1 @@
-# AWS Course Memo
+# AWS Course Memmo
